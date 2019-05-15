@@ -1,16 +1,6 @@
 {
   "streams": [
     {
-      "title": "New Stream",
-      "description": "The newest stream there is ",
-      "id": 1
-    },
-    {
-      "title": "Another Stream",
-      "description": "It's different from the other!",
-      "id": 2
-    },
-    {
       "title": "May Stream!",
       "description": "A stream that has flowers :)",
       "userId": "100138476708971860093",
