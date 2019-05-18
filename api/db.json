@@ -7,21 +7,9 @@
       "id": 3
     },
     {
-      "title": "A Newer Stream Which Belongs to Me!!!",
-      "description": "My very own stream :)",
-      "userId": "100138476708971860093",
-      "id": 4
-    },
-    {
       "title": "The Hot New Stream!",
       "description": "It's ok",
       "id": 5
-    },
-    {
-      "title": "Component Reuse",
-      "description": "Refactor",
-      "userId": "100138476708971860093",
-      "id": 6
     }
   ]
 }
